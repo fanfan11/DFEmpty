@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DFEmpty"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "列表空白页显示"
   s.description  = <<-DESC
                     用于UITableView和UICollectionView显示空白页

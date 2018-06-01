@@ -426,13 +426,14 @@ static char const * const kEmptyDataSetView =       "kEmptyDataSetView";
             view.verticalSpace = [self df_verticalSpace];
             
     
+            if (image) {
+                view.imageView.image = image;
+            }
+            
             if (titleLabelString) {
                 view.titleLabel.attributedText = titleLabelString;
             }
             
-            if (image) {
-                view.imageView.image = image;
-            }
             
             if (detailLabelString) {
                 view.detailLabel.attributedText = detailLabelString;
