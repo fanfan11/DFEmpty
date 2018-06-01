@@ -1,16 +1,16 @@
 PODS:
-  - DFEmpty (0.0.1)
+  - DFEmpty (0.0.2)
 
 DEPENDENCIES:
-  - DFEmpty (~> 0.0.1)
+  - DFEmpty (~> 0.0.2)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - DFEmpty
 
 SPEC CHECKSUMS:
-  DFEmpty: d3f472e508dca8b37020d11b7e333838e20b82e1
+  DFEmpty: 04e4148c99c1f4cf5a351e5b2dcd515572fc7d9d
 
-PODFILE CHECKSUM: 3297c65457110a3b97517133bdf98cff6550bb4b
+PODFILE CHECKSUM: ee887bd5e6142a1fbb1e6794c1e0cf7a80ab425b
 
 COCOAPODS: 1.5.0

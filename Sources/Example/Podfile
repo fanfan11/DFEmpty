@@ -1,6 +1,6 @@
 platform :ios, '9.0'
 
 target 'DFEmptyDataSet' do
-    pod 'DFEmpty', '~>0.0.1'
+    pod 'DFEmpty', '~>0.0.2'
 
 end
